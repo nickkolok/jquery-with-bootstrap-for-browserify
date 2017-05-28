@@ -1,0 +1,19 @@
+{
+  "name": "jquery-with-bootstrap-for-browserify",
+  "version": "0.0.1-bs3.3.7",
+  "description": "small wrapper to easily require bootstrap",
+  "main": "jquery-with-bootstrap-for-browserify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickkolok/jquery-with-bootstrap-for-browserify.git"
+  },
+  "author": "Nikolay Avdeev <nickkolok@mail.ru>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nickkolok/jquery-with-bootstrap-for-browserify/issues"
+  },
+  "homepage": "https://github.com/nickkolok/jquery-with-bootstrap-for-browserify#readme"
+}
